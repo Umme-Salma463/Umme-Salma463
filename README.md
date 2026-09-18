@@ -15,19 +15,14 @@
 
 ### About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/🔭_Working_on-actualJavaFX-8A2BE2?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/🌱_Learning-Java_%26_JavaFX-FF69B4?style=for-the-badge&labelColor=black" />
-</p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🤝_Collaborate_on-Software_Projects-9146FF?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/💬_Ask_me_about-Java_%26_JavaFX_Dev-00BFFF?style=for-the-badge&labelColor=black" />
-</p>
+  <img src="https://img.shields.io/badge/_Collaborate_on-Software_Projects-9146FF?style=for-the-badge&labelColor=black" />
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/umm-e-salma-154839394" target="_blank">
-    <img src="https://img.shields.io/badge/📫_Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/_Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
